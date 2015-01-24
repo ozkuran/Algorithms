@@ -7,7 +7,7 @@ package com.ozkuran.algorithms.math.gcd;
  */
 public class GCD {
     /**
-     *
+     * @version 0.1.13
      * @param first
      * @param second
      * @return
@@ -15,7 +15,7 @@ public class GCD {
      *
      */
     public int gcd(int first, int second) {
-        if (second == 0) {
+        if (first == 0 || second == 0) {
             return 0;
         }
         else
