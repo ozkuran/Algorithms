@@ -12,7 +12,6 @@ public class BubbleSortTest extends TestCase {
         Integer[] output = null;
 
         output = BubbleSort.sort(input);
-        //assertSame(sorted,output);
         assertArrayEquals(sorted, output);
     }
 
@@ -23,7 +22,6 @@ public class BubbleSortTest extends TestCase {
         Double[] output = null;
 
         output = BubbleSort.sort(input);
-        //assertSame(sorted,output);
         assertArrayEquals(sorted, output);
     }
 }
