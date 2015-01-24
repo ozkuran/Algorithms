@@ -3,13 +3,13 @@ package com.ozkuran.algorithms.math.lcm;
 import com.ozkuran.algorithms.math.gcd.GCD;
 
 /**
- * Created by MahmutAli on 1/1/2013.
+ * @version 0.1.7
+ * * Created by MahmutAli on 1/1/2013.
  * Last Update by MahmutAli on 1/24/2015.
  * Greatest Least Common Multiplier
  */
 public class LCM {
     /**
-     * @version 0.1.7
      * @param first
      * @param second
      * @return
