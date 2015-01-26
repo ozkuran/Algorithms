@@ -480,19 +480,47 @@
       <recent name="com.ozkuran.algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalendarDayTest">
-    <configuration default="false" name="BubbleSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.IsPrimeTest">
+    <configuration default="false" name="com.ozkuran.algorithms.math.chebyshevdistance in java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.ozkuran.algorithms.sorts.bubblesort.*" />
+          <option name="PATTERN" value="com.ozkuran.algorithms.math.chebyshevdistance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="java" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.sorts.bubblesort" />
-      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.sorts.bubblesort.BubbleSortTest" />
+      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.math.chebyshevdistance" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ChebyshevDistanceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ozkuran.algorithms.math.chebyshevdistance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="java" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.math.chebyshevdistance" />
+      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.math.chebyshevdistance.ChebyshevDistanceTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -509,74 +537,18 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="BubbleSortTest.testSortsSmallDoubleArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="EuclideanDistanceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.ozkuran.algorithms.sorts.bubblesort.*" />
+          <option name="PATTERN" value="com.ozkuran.algorithms.math.euclideandistance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="java" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.sorts.bubblesort" />
-      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.sorts.bubblesort.BubbleSortTest" />
-      <option name="METHOD_NAME" value="testSortsSmallDoubleArray" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="JulianDayTest.testConvertDayMonthYearToJulianDay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.ozkuran.algorithms.time.julianday.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="java" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.time.julianday" />
-      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.time.julianday.JulianDayTest" />
-      <option name="METHOD_NAME" value="testConvertDayMonthYearToJulianDay" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="JulianDayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.ozkuran.algorithms.time.julianday.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="java" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.time.julianday" />
-      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.time.julianday.JulianDayTest" />
+      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.math.euclideandistance" />
+      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.math.euclideandistance.EuclideanDistanceTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -593,18 +565,46 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="CalendarDayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="GCDTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.ozkuran.algorithms.time.calendarday.*" />
+          <option name="PATTERN" value="com.ozkuran.algorithms.math.gcd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="java" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.time.calendarday" />
-      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.time.calendarday.CalendarDayTest" />
+      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.math.gcd" />
+      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.math.gcd.GCDTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="IsPrimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ozkuran.algorithms.math.isprime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="java" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.math.isprime" />
+      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.math.isprime.IsPrimeTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -880,19 +880,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.BubbleSortTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.BubbleSortTest.testSortsSmallDoubleArray" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.JulianDayTest.testConvertDayMonthYearToJulianDay" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.JulianDayTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CalendarDayTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.com.ozkuran.algorithms.math.chebyshevdistance in java" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ChebyshevDistanceTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.EuclideanDistanceTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.GCDTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.IsPrimeTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CalendarDayTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.JulianDayTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.JulianDayTest.testConvertDayMonthYearToJulianDay" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.BubbleSortTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.BubbleSortTest.testSortsSmallDoubleArray" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.IsPrimeTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.GCDTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.EuclideanDistanceTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ChebyshevDistanceTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.com.ozkuran.algorithms.math.chebyshevdistance in java" />
       </list>
     </recent_temporary>
   </component>
@@ -906,16 +906,16 @@
       <created>1422071349796</created>
       <option name="number" value="Default" />
       <updated>1422071349796</updated>
-      <workItem from="1422071351667" duration="17411000" />
+      <workItem from="1422071351667" duration="17783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17411000" />
+    <option name="totallyTimeSpent" value="17783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1936" height="1058" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
