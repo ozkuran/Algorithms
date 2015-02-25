@@ -31,3 +31,9 @@ Calculates Approximation of a Root of a Polynomial using Bisection Algorithm
 ##### Java 
 http://github.com/ozkuran/Algorithms/tree/master/java/src/com/ozkuran/algorithms/math/approximation/bisection
 
+#### Approximation - Monte Carlo - Pi
+
+Calculates value of Pi using Monte Carlo Method
+
+##### Java 
+http://github.com/ozkuran/Algorithms/tree/master/java/src/com/ozkuran/algorithms/math/approximation/montecarlo/pi
