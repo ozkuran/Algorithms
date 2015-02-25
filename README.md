@@ -13,7 +13,6 @@ I will update them and add here time to time.
 Returns given Julian Day as Calendar Day.
 
 ##### Java 
-
 http://github.com/ozkuran/Algorithms/blob/master/java/src/com/ozkuran/algorithms/time/calendarday/
 
 #### Julian Day
@@ -21,5 +20,14 @@ http://github.com/ozkuran/Algorithms/blob/master/java/src/com/ozkuran/algorithms
 Returns given Calendar Day to Julian Day.
 
 ##### Java 
-
 http://github.com/ozkuran/Algorithms/tree/master/java/src/com/ozkuran/algorithms/time/julianday
+
+### Math
+
+#### Approximation - Bisection
+
+Calculates Approximation of a Root of a Polynomial using Bisection Algorithm
+
+##### Java 
+http://github.com/ozkuran/Algorithms/tree/master/java/src/com/ozkuran/algorithms/math/approximation/bisection
+
