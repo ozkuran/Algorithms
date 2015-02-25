@@ -14,4 +14,12 @@ Returns given Julian Day as Calendar Day.
 
 ##### Java 
 
-https://github.com/ozkuran/Algorithms/blob/master/java/src/com/ozkuran/algorithms/time/calendarday/
+http://github.com/ozkuran/Algorithms/blob/master/java/src/com/ozkuran/algorithms/time/calendarday/
+
+#### Julian Day
+
+Returns given Calendar Day to Julian Day.
+
+##### Java 
+
+http://github.com/ozkuran/Algorithms/tree/master/java/src/com/ozkuran/algorithms/time/julianday
