@@ -4,6 +4,7 @@ package com.ozkuran.algorithms.math.approximation.montecarlo.pi;
  * @version 0.0.3.13
  * Last Update by MahmutAli on 2/25/2015.
  * Created by MahmutAli on 1/9/2004.
+ * Calculates value of Pi using Monte Carlo Method
  */
 public class Pi {
 

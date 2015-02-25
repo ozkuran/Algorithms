@@ -6,7 +6,7 @@ import static java.lang.Math.floor;
  * @version 0.0.2.10
  * Created by MahmutAli on 11/9/2010.
  * Last Update by MahmutAli on 1/24/2015.
- * Returns if given number is a Prime Number
+ * Returns given Calendar Day to Julian Day.
  */
 
 public class JulianDay {
