@@ -27,22 +27,22 @@ public class MBox {
     }
 
     public void ProcessMbox() throws IOException {
-        HashSet<String> distinctValues = new HashSet();
+        HashSet<String> distinctValues = new HashSet<String>();
         String line;
 
-        if (_filename == "")
-        {
+        if (_filename == "") {
             _filename = String.format("d:\\data\\comp.database.oracle.mbox");
-            BufferedReader br = new BufferedReader(new FileReader(_filename));
-            while ((line = br.readLine()) != null)
-            {
-                int index = line.indexOf(": ");
-                if ((index >= 2) && (index < 30))
-                {
-                    distinctValues.add(line.substring(0, index - 1));
-                }
-            }
-            _filename = "";
         }
+        BufferedReader br;
+        br = new BufferedReader(new FileReader(_filename));
+        while ((line = br.readLine()) != null)
+        {
+            int index = line.indexOf(": ");
+            if ((index >= 2) && (index < 30))
+            {
+                distinctValues.add(line.substring(0, index - 1));
+            }
+        }
+        _filename = "";
     }
 }
