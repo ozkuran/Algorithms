@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list id="e8eecdd4-445d-4a13-9f1d-21a06131bea2" name="Default" comment="Added initial MBoxTest class" />
-    <list default="true" id="0bb4500b-3570-4aa4-89ad-6fbb522a173c" name="Rejected commit: Default" comment="Initial Implementetation of Pi Approximation using  MonteCarlo Trials method">
+    <list default="true" id="0bb4500b-3570-4aa4-89ad-6fbb522a173c" name="Rejected commit: Default" comment="Initial">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/ozkuran/algorithms/math/calculatepolynomial/CalculatePolynomial.class" afterPath="$PROJECT_DIR$/out/production/java/com/ozkuran/algorithms/math/calculatepolynomial/CalculatePolynomial.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/ozkuran/algorithms/data/acquisition/mailbox/mbox/MBox.class" afterPath="$PROJECT_DIR$/out/production/java/com/ozkuran/algorithms/data/acquisition/mailbox/mbox/MBox.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+    <list id="dae8ea16-e1ac-416f-9a9e-137dabdb58be" name="Failed commit: Rejected commit: Default" comment="Initial Release of US Banks 9 digit Process Number Checker" />
+    <list id="f282a9d1-cc69-49f7-96af-0f6befdecf1b" name="Failed commit: Rejected commit: Default (2)" comment="Initial Release of US Banks 9 Digit Process Number Check" />
     <ignored path="java.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,35 +33,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Pi.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/approximation/montecarlo/pi/Pi.java">
+      <file leaf-file-name="USBanksPNCheck.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/usbankspncheck/USBanksPNCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6848341" vertical-offset="0" max-vertical-offset="844">
-              <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.30738994" vertical-offset="0" max-vertical-offset="1272">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PiTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/approximation/montecarlo/pi/PiTest.java">
+      <file leaf-file-name="USBanksPNCheckTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/usbankspncheck/USBanksPNCheckTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CalculatePolynomialTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/calculatepolynomial/CalculatePolynomialTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="578">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#362#370#0" expanded="true" />
-                <element signature="e#688#696#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TenDigitISBNCheck.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/tendigitisbncheck/TenDigitISBNCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="680">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TenDigitISBNCheckTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/tendigitisbncheck/TenDigitISBNCheckTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="612">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="24" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#441#450#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IBMCheck.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/ibmcheck/IBMCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="697">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="35" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IBMCheckTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/ibmcheck/IBMCheckTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="459">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#349#358#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,26 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/gcd/gcdTest.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/gcd/gcd.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/gcd/GCDTest.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/LCM.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/gcd/GCD.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/lcm/LCMTest.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/lcm/LCM.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/EuclidianDistanceTest.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/EuclidianDistance.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/EuclideanDistance.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/EuclideanDistanceTest.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/SquaredDistance.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/euclideandistance/EuclideanDistance.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/squareddistance/SquaredDistance.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/squareddistance/SquaredDistanceTest.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/ChebyshevDistance.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/ChebyshevDistanceTest.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/chebyshevdistance/ChebyshevDistanceTest.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/IsPrime.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/isprime/IsPrimeTest.java" />
         <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/sorts/bubblesort/BubbleSortTest.java" />
         <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/JulianDay.java" />
@@ -117,14 +141,34 @@
         <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/sorts/bubblesort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/data/acquisition/mailbox/mbox.java" />
         <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/chebyshevdistance/ChebyshevDistance.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/data/acquisition/mailbox/mbox/MBox.java" />
         <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/data/acquisition/mailbox/mbox/MBoxTest.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/calculatepolynomial/CalculatePolynomial.java" />
         <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/approximation/bisection/Bisection.java" />
         <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/approximation/bisection/BisectionTest.java" />
         <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/calculatepolynomial/CalculatePolynomialTest.java" />
-        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/approximation/montecarlo/pi/PiTest.java" />
         <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/approximation/montecarlo/pi/Pi.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/calculatepolynomial/CalculatePolynomial.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/data/acquisition/mailbox/mbox/MBox.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/approximation/montecarlo/pi/PiTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/derivative/Differentiator.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/derivative/DifferentiatorTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/Mastercard.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/mastercard/Mastercard.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/mastercard/IBMCheck.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/doubledtotaldigits/DoubledTotalDigitsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/doubledtotaldigits/DoubledTotalDigits.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/doubledtotaldigits/SumOfDigits.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/doubledtotaldigits/SumOfDigitsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/sumofdigits/SumOfDigitsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/ibmcheck/IBMCheckTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/ibmcheck/IBMCheck.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/math/sumofdigits/SumOfDigits.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/ibmcheck/TenDigitISBNCheck.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/tendigitisbncheck/TenDigitISBNCheckTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/USBanksPNCheck/USBanksPNCheck.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/usbankspncheck/USBanksPNCheck.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/usbankspncheck/USBanksPNCheckTest.hs" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/tendigitisbncheck/TenDigitISBNCheck.java" />
+        <option value="$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/usbankspncheck/USBanksPNCheckTest.java" />
       </list>
     </option>
   </component>
@@ -162,6 +206,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,37 +266,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sorts" />
+              <option name="myItemId" value="checksum" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="shellsort" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sorts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bubblesort" />
+              <option name="myItemId" value="usbankspncheck" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -272,7 +292,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="math" />
+              <option name="myItemId" value="checksum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tendigitisbncheck" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -294,11 +318,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="math" />
+              <option name="myItemId" value="checksum" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="euclideandistance" />
+              <option name="myItemId" value="ibmcheck" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -321,121 +345,11 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="math" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chebyshevdistance" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="math" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="calculatepolynomial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="math" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="approximation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="math" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="approximation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mbox" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -468,6 +382,9 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\Algorithms\java\src\com\ozkuran\algorithms\security\checksum" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="junit.framework.TestCase" />
     </key>
@@ -479,20 +396,48 @@
       <recent name="com.ozkuran.algorithms.time.calendarday" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PiTest">
-    <configuration default="false" name="ShellSortTest.testSortsSmallIntegerArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.USBanksPNCheckTest.testShouldReturnTrueFor_110000000">
+    <configuration default="false" name="IBMCheckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.ozkuran.algorithms.sorts.shellsort.*" />
+          <option name="PATTERN" value="com.ozkuran.algorithms.security.checksum.ibmcheck.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="java" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.sorts.shellsort" />
-      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.sorts.shellsort.ShellSortTest" />
-      <option name="METHOD_NAME" value="testSortsSmallIntegerArray" />
+      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.security.checksum.ibmcheck" />
+      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.security.checksum.ibmcheck.IBMCheckTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="IBMCheckTest.testShouldReturnTrueFor_18" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ozkuran.algorithms.security.checksum.ibmcheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="java" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.security.checksum.ibmcheck" />
+      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.security.checksum.ibmcheck.IBMCheckTest" />
+      <option name="METHOD_NAME" value="testShouldReturnTrueFor_18" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -508,18 +453,18 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="BisectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TenDigitISBNCheckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.ozkuran.algorithms.math.approximation.bisection.*" />
+          <option name="PATTERN" value="com.ozkuran.algorithms.security.checksum.tendigitisbncheck.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="java" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.math.approximation.bisection" />
-      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.math.approximation.bisection.BisectionTest" />
+      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.security.checksum.tendigitisbncheck" />
+      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.security.checksum.tendigitisbncheck.TenDigitISBNCheckTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -536,19 +481,19 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="CalculatePolynomialTest.testShouldCalculatePolynomial_x_at_0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TenDigitISBNCheckTest.testShouldReturnTrueFor_18" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.ozkuran.algorithms.math.calculatepolynomial.*" />
+          <option name="PATTERN" value="com.ozkuran.algorithms.security.checksum.tendigitisbncheck.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="java" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.math.calculatepolynomial" />
-      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.math.calculatepolynomial.CalculatePolynomialTest" />
-      <option name="METHOD_NAME" value="testShouldCalculatePolynomial_x_at_0" />
+      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.security.checksum.tendigitisbncheck" />
+      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.security.checksum.tendigitisbncheck.TenDigitISBNCheckTest" />
+      <option name="METHOD_NAME" value="testShouldReturnTrueFor_18" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -564,48 +509,20 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="CalculatePolynomialTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="USBanksPNCheckTest.testShouldReturnTrueFor_110000000" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.ozkuran.algorithms.math.calculatepolynomial.*" />
+          <option name="PATTERN" value="com.ozkuran.algorithms.security.checksum.usbankspncheck.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="java" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.math.calculatepolynomial" />
-      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.math.calculatepolynomial.CalculatePolynomialTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="PiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.ozkuran.algorithms.math.approximation.montecarlo.pi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="java" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.math.approximation.montecarlo.pi" />
-      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.math.approximation.montecarlo.pi.PiTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.security.checksum.usbankspncheck" />
+      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.security.checksum.usbankspncheck.USBanksPNCheckTest" />
+      <option name="METHOD_NAME" value="testShouldReturnTrueFor_110000000" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -1034,20 +951,49 @@
       <envs />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.ShellSortTest.testSortsSmallIntegerArray" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.BisectionTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatePolynomialTest.testShouldCalculatePolynomial_x_at_0" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatePolynomialTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.PiTest" />
+    <configuration default="false" name="SumOfDigitsTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ozkuran.algorithms.math.sumofdigits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="java" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ozkuran.algorithms.math.sumofdigits" />
+      <option name="MAIN_CLASS_NAME" value="com.ozkuran.algorithms.math.sumofdigits.SumOfDigitsTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SumOfDigitsTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.IBMCheckTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.IBMCheckTest.testShouldReturnTrueFor_18" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TenDigitISBNCheckTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TenDigitISBNCheckTest.testShouldReturnTrueFor_18" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.USBanksPNCheckTest.testShouldReturnTrueFor_110000000" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.PiTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatePolynomialTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatePolynomialTest.testShouldCalculatePolynomial_x_at_0" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.BisectionTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ShellSortTest.testSortsSmallIntegerArray" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.USBanksPNCheckTest.testShouldReturnTrueFor_110000000" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TenDigitISBNCheckTest.testShouldReturnTrueFor_18" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TenDigitISBNCheckTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.IBMCheckTest.testShouldReturnTrueFor_18" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.IBMCheckTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1068,7 +1014,11 @@
       <workItem from="1423678732508" duration="41000" />
       <workItem from="1423680277995" duration="171000" />
       <workItem from="1424725281877" duration="4317000" />
-      <workItem from="1424798879002" duration="7423000" />
+      <workItem from="1424798879002" duration="12878000" />
+      <workItem from="1424869461323" duration="5000" />
+      <workItem from="1424900571564" duration="3863000" />
+      <workItem from="1424905622219" duration="3089000" />
+      <workItem from="1424909263823" duration="42000" />
     </task>
     <task id="LOCAL-00001" summary="Added initial MBoxTest class">
       <created>1424778761809</created>
@@ -1106,11 +1056,53 @@
       <option name="project" value="LOCAL" />
       <updated>1424825611774</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated Workspace">
+      <created>1424825682031</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1424825682031</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed bug:&#10;# Method was not getting power of each element.">
+      <created>1424860097692</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1424860097692</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed warning:&#10;# Added distintValues HashSet type validator.">
+      <created>1424860573935</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1424860573935</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial Implementation of Differentiator">
+      <created>1424862063823</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1424862063823</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initial release of IBMCheck Class">
+      <created>1424905689951</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1424905689951</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Initial release of TenDigitISBNCheck class.">
+      <created>1424906684287</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1424906684287</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Initial">
+      <created>1424908865220</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1424908865220</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41414000" />
+    <option name="totallyTimeSpent" value="53868000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1134,36 +1126,36 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1456" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819724" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3459168" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24980143" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24146147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819724" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923076" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3459168" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24146147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24980143" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3459168" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1220,11 +1212,20 @@
     <MESSAGE value="Bisection class updated" />
     <MESSAGE value="Added initial CalculatePolynomial and CalculatePolynomialTest class" />
     <MESSAGE value="Initial Implementetation of Pi Approximation using  MonteCarlo Trials method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Implementetation of Pi Approximation using  MonteCarlo Trials method" />
+    <MESSAGE value="Updated Workspace" />
+    <MESSAGE value="Fixed bug:&#10;# Method was not getting power of each element." />
+    <MESSAGE value="Fixed warning:&#10;# Added distintValues HashSet type validator." />
+    <MESSAGE value="Initial Implementation of Differentiator" />
+    <MESSAGE value="Initial release of IBMCheck Class" />
+    <MESSAGE value="Initial release of TenDigitISBNCheck class." />
+    <MESSAGE value="Initial" />
+    <MESSAGE value="Initial Release of US Banks 9 digit Process Number Checker" />
+    <MESSAGE value="Initial Release of US Banks 9 Digit Process Number Check" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Release of US Banks 9 Digit Process Number Check" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1233,96 +1234,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/sorts/shellsort/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="680">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/sorts/shellsort/ShellSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="510">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/sorts/bubblesort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/sorts/bubblesort/BubbleSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="510">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/sorts/shellsort/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="697">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/sorts/shellsort/ShellSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="544">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/sorts/bubblesort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/sorts/bubblesort/BubbleSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="544">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/linearalgebra/gaussjordan/GaussJordan.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="306">
@@ -1362,9 +1273,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="544">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1512,9 +1420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
           <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1522,9 +1427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
           <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1532,25 +1434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/sorts/bubblesort/BubbleSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/data/acquisition/mailbox/mbox/MBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1558,7 +1441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16545013" vertical-offset="0" max-vertical-offset="822">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1566,84 +1448,171 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/chebyshevdistance/ChebyshevDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16545013" vertical-offset="0" max-vertical-offset="822">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/chebyshevdistance/ChebyshevDistanceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.124087594" vertical-offset="0" max-vertical-offset="822">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="11" selection-end-column="5" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/approximation/bisection/Bisection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="395" max-vertical-offset="1241">
-          <caret line="47" column="118" selection-start-line="47" selection-start-column="118" selection-end-line="47" selection-end-column="118" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1207">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/data/acquisition/mailbox/mbox/MBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="false" />
+            <element signature="e#762#763#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/approximation/bisection/BisectionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/chebyshevdistance/ChebyshevDistanceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
-          <caret line="30" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#356#364#0" expanded="true" />
-            <element signature="e#671#679#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/calculatepolynomial/CalculatePolynomial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/calculatepolynomial/CalculatePolynomialTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#362#370#0" expanded="true" />
-            <element signature="e#688#696#0" expanded="true" />
-          </folding>
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/approximation/montecarlo/pi/PiTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/calculatepolynomial/CalculatePolynomial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/derivative/Differentiator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+          <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/derivative/DifferentiatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/sorts/bubblesort/BubbleSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08262455" vertical-offset="0" max-vertical-offset="823">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/approximation/montecarlo/pi/Pi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6848341" vertical-offset="0" max-vertical-offset="844">
-          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/approximation/montecarlo/pi/PiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18590522" vertical-offset="0" max-vertical-offset="823">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/approximation/bisection/BisectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18590522" vertical-offset="0" max-vertical-offset="823">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/sumofdigits/SumOfDigitsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2272175" vertical-offset="0" max-vertical-offset="823">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/math/sumofdigits/SumOfDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/ibmcheck/IBMCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/ibmcheck/IBMCheckTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#349#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/tendigitisbncheck/TenDigitISBNCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/tendigitisbncheck/TenDigitISBNCheckTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="24" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#441#450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/usbankspncheck/USBanksPNCheckTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozkuran/algorithms/security/checksum/usbankspncheck/USBanksPNCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30738994" vertical-offset="0" max-vertical-offset="1272">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
