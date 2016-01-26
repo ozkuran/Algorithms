@@ -1,7 +1,7 @@
 # Algorithms
 ## An Algorithms repository
 
-I am presenting you from the ancient crypts of old back ups. Algorithms implemented in variative areas. 
+I am presenting you from the ancient crypts of old back ups. Algorithms implemented in various time and projects. 
 I will update them and add here time to time.
 
 ## Currently Implemented Algorithms
